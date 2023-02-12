@@ -1,0 +1,21 @@
+h1 {
+  font-size: 30px;
+  color: blue;
+  margin-bottom: 20px;
+  background-color: darkorange;
+  padding-left: 20px;
+}
+.output {
+  color: rgb(186, 48, 48);
+}
+p {
+  font-size: 20px;
+  color: aqua;
+}
+a {
+  font-size: 20px;
+  color: green;
+}
+ol {
+  color: hotpink;
+}
